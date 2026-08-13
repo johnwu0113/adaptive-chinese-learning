@@ -1,0 +1,6 @@
+fastapi>=0.115.0
+uvicorn>=0.30.0
+requests>=2.32.0
+pytest>=8.0.0
+pytest-html>=4.0.0
+playwright>=1.46.0
